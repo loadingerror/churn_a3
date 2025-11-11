@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs
+*.log
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+dist/
+build/
+*.whl
+
+# MacOS files
+.DS_Store
+
+# Jupyter runtime
+*.json
+
+# MyPy
+.mypy_cache/
+
+# Tests
+htmlcov/
+.coverage
+.cache
+
+# dotenv
+.env
+.env.*
+
+# pip requirements backup
+pip-log.txt
+
+#catboost
+catboost_info/
+**/catboost_info/
